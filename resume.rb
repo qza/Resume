@@ -50,8 +50,6 @@ get '/resume.txt' do
    File.read(settings.config['file'])
 end
 
-set media = settings.config['media'];
-
 get '/download' do
-  send_file "#{media}/#{params[:name]}.pdf", :content_type=>'application/pdf',:disposition => 'attachment'
+  send_file "#{settings.config['media']}/#{params[:name]}.pdf", :content_type=>'application/pdf',:disposition => 'attachment'
 end
