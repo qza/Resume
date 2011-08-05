@@ -27,12 +27,7 @@ class ResumeTest < Test::Unit::TestCase
     visit '/'
     assert page.has_selector?('ul')
   end
-  
-  def test_apolon
-    visit '/'
-    assert page.has_selector?('ul')
-  end
-  
+ 
   # def test_single_h1
     # visit '/'
     # assert page.execute_script("$('h1').size()") == 2
