@@ -8,4 +8,4 @@ gem 'rdiscount'
 gem 'github-markup'
 gem 'rack-test'
 gem 'heroku'
-
+gem 'capybara'
