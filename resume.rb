@@ -49,3 +49,13 @@ get '/resume.txt' do
    content_type 'text/plain', :charset => 'utf-8'
    File.read(settings.config['file'])
 end
+
+get '/Resume/public/media/OracleAcademyFinal.pdf' do
+  # f = File.open("public/media/OracleAcademyFinal.pdf", "r")
+  send_file "public/media/OracleAcademyFinal.pdf", :content_type=>'application/pdf',:disposition => 'attachment'
+end
+
+get '/Resume/public/media/AsoftKlas.pdf' do
+  # f = File.open("public/media/AsoftKlas.pdf", "r")
+  send_file "public/media/AsoftKlas.pdf", :content_type=>'application/pdf',:disposition => 'attachment' 
+end
