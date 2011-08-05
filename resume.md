@@ -2,7 +2,7 @@
 
  * <kokovic.zoran@gmail.com>
  * <http://github.com/qza>
- * 381 (1) 65 331-49-42
+ * +381 (1) 65 331-49-42
 
 
 ## Profile summary
@@ -45,7 +45,6 @@
 ## Other achievements
 
  * 4th place at 2008 Oracle Academy Modeling Competition with project: [Global airlines][air], [full-pdf][air_pdf]
- 
  * Blue Belt at [Java Black Belt][jbb]
 
 [apo]:http://sourceforge.net/projects/apolon/
@@ -56,8 +55,8 @@
 [jbb]:http://www.blackbeltfactory.com/UserView.wwa?userId=1135162
 [air]:http://www.prnewswire.com/news-releases/oracle-announces-the-winners-of-the-2008-oracle-academy-global-data-modeling-competition-57408242.html
 
-[aklas]:/Resume/public/media/AsoftKlas.pdf
-[air_pdf]:/Resume/public/media/OracleAcademyFinal.pdf
+[aklas]:/download?resource_name=AsoftKlas
+[air_pdf]:/download?resource_name=OracleAcademyFinal
 
 ## Technical skills
 
@@ -65,7 +64,7 @@
 
  > Proficient in: Java, Ruby, Javascript, HTML, XML, Ant, SQL, Bash 
 
- > Some experience with: PHP, Python, Perl, C++
+ > Some experience with: PHP, Python, C++
 
 **Frameworks**
 
