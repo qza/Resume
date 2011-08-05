@@ -50,12 +50,8 @@ get '/resume.txt' do
    File.read(settings.config['file'])
 end
 
-get '/Resume/public/media/OracleAcademyFinal.pdf' do
-  # f = File.open("public/media/OracleAcademyFinal.pdf", "r")
-  send_file "public/media/OracleAcademyFinal.pdf", :content_type=>'application/pdf',:disposition => 'attachment'
-end
+set media = settings.config['media'];
 
-get '/Resume/public/media/AsoftKlas.pdf' do
-  # f = File.open("public/media/AsoftKlas.pdf", "r")
-  send_file "public/media/AsoftKlas.pdf", :content_type=>'application/pdf',:disposition => 'attachment' 
+get '/download' do
+  send_file "#{media}/#{params[:name]}.pdf", :content_type=>'application/pdf',:disposition => 'attachment'
 end
