@@ -55,8 +55,8 @@
 [jbb]:http://www.blackbeltfactory.com/UserView.wwa?userId=1135162
 [air]:http://www.prnewswire.com/news-releases/oracle-announces-the-winners-of-the-2008-oracle-academy-global-data-modeling-competition-57408242.html
 
-[aklas]:/download?resource_name=AsoftKlas
-[air_pdf]:/download?resource_name=OracleAcademyFinal
+[aklas]:/download?name=AsoftKlas
+[air_pdf]:/download?name=OracleAcademyFinal
 
 ## Technical skills
 
