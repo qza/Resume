@@ -28,11 +28,13 @@ end
 get '/index.html' do
    rfile = settings.config['file']
    name  = settings.config['name']
+   pic  = settings.config['pic']
    title = "#{name}'s Resume"
    resume = GitHub::Markup.render(rfile, File.read(rfile))
    erb :index, :locals => {
       :title => title,
       :resume => resume,
+      :pic => pic, 
       :author => name,
       :key => settings.config['gkey'],
       :filename => rfile
@@ -50,6 +52,10 @@ get '/resume.txt' do
    File.read(settings.config['file'])
 end
 
-get '/download' do
-  send_file "#{settings.config['media']}/#{params[:name]}.pdf", :content_type=>'application/pdf',:disposition => 'attachment'
+get '/public/media/AsoftKlas.pdf' do
+  send_file 'public/media/AsoftKlas.pdf', :content_type=>'application/pdf', :disposition => 'attachment'
+end
+
+get '/public/media/OracleAcademyFinal.pdf' do
+  send_file 'public/media/OracleAcademyFinal.pdf', :content_type=>'application/pdf', :disposition => 'attachment'
 end

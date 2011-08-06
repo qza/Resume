@@ -15,7 +15,7 @@
  * Good knowledge of OO & SOA paradigms
  * Wide Software-related Business skills
  * International research and scientific papers
-  
+ 
 
 ## Experience
 
@@ -55,8 +55,9 @@
 [jbb]:http://www.blackbeltfactory.com/UserView.wwa?userId=1135162
 [air]:http://www.prnewswire.com/news-releases/oracle-announces-the-winners-of-the-2008-oracle-academy-global-data-modeling-competition-57408242.html
 
-[aklas]:/download?name=AsoftKlas
-[air_pdf]:/download?name=OracleAcademyFinal
+[aklas]: /public/media/AsoftKlas.pdf
+[air_pdf]: /public/media/OracleAcademyFinal.pdf
+
 
 ## Technical skills
 

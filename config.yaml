@@ -12,7 +12,6 @@ user_config:
    # A picture of you. Should be a complete url
    pic: 'http://farm7.static.flickr.com/6017/6011157136_5f66993875.jpg'
 
-   media: 'public/media'
    # The google analytics key you wish to use.
    # gkey: ''
 
