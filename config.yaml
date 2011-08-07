@@ -4,7 +4,6 @@
 user_config:
    # Your Name. This will be used for the page title
    name: 'Zoran Koković'
-
    # The file you want to parse to be your resume
    # Must be a format supported by github-markup
    file: 'resume.md'
@@ -18,5 +17,9 @@ user_config:
 # For github pages to work, this needs to be the GitHub repository this file is
 # storred in.
 github:
+ 
    remote: 'git@github.com:qza/Resume.git'
+   deploy: 'qza.github.com/Resume'
+   
+   
 
