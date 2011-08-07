@@ -3,38 +3,38 @@
 # @author Nat Welch - https://github.com/icco/Resume
 
 begin
-   require "rubygems"
+  require "rubygems"
 rescue LoadError
-   puts "Please install Ruby Gems to continue."
-   exit
+  puts "Please install Ruby Gems to continue."
+  exit
 end
 
 # Check all of the gems we need are there.
 [ "sinatra", "less", "github/markup", "yaml" ].each {|gem|
-   begin
-      require gem
-   rescue LoadError
-      puts "The gem #{gem} is not installed.\n"
-      exit
-   end
+  begin
+    require gem
+  rescue LoadError
+    puts "The gem #{gem} is not installed.\n"
+    exit
+  end
 }
 
 # Include our configurations from config.yaml
 configure do
-   set :config, YAML.load_file('config.yaml')['user_config']
+  set :config, YAML.load_file('config.yaml')['user_config'] 
 end
 
 # Render the main page.
 get '/index.html' do
-   rfile = settings.config['file']
-   name  = settings.config['name']
-   pic  = settings.config['pic']
-   title = "#{name}'s Resume"
-   resume = GitHub::Markup.render(rfile, File.read(rfile))
-   erb :index, :locals => {
+  rfile = settings.config['file']
+  name  = settings.config['name']
+  pic  = settings.config['pic']
+  title = "#{name}'s Resume"
+  resume = GitHub::Markup.render(rfile, File.read(rfile))
+  erb :index, :locals => {
       :title => title,
       :resume => resume,
-      :pic => pic, 
+      :pic => pic,
       :author => name,
       :key => settings.config['gkey'],
       :filename => rfile
@@ -43,19 +43,19 @@ end
 
 # We do this for our static site rendering.
 get '/' do
-   redirect '/index.html'
+  redirect '/index.html'
+end
+
+get '/robots.txt' do
+  if request.host == 'localhost'
+    redirect('robots.txt')
+  else
+     redirect(settings.repo + '/robots.txt')
+  end
 end
 
 # For the plain text version of our resumes
 get '/resume.txt' do
-   content_type 'text/plain', :charset => 'utf-8'
-   File.read(settings.config['file'])
-end
-
-get '/public/media/AsoftKlas.pdf' do
-  send_file 'public/media/AsoftKlas.pdf', :content_type=>'application/pdf', :disposition => 'attachment'
-end
-
-get '/public/media/OracleAcademyFinal.pdf' do
-  send_file 'public/media/OracleAcademyFinal.pdf', :content_type=>'application/pdf', :disposition => 'attachment'
+  content_type 'text/plain', :charset => 'utf-8'
+  File.read(settings.config['file'])
 end

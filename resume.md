@@ -55,19 +55,19 @@
 [jbb]:http://www.blackbeltfactory.com/UserView.wwa?userId=1135162
 [air]:http://www.prnewswire.com/news-releases/oracle-announces-the-winners-of-the-2008-oracle-academy-global-data-modeling-competition-57408242.html
 
-[aklas]: /public/media/AsoftKlas.pdf
-[air_pdf]: /public/media/OracleAcademyFinal.pdf
+[aklas]: http://qza.github.com/Resume/AsoftKlas.pdf
+[air_pdf]: http://qza.github.com/Resume/OracleAcademyFinal.pdf
 
 
 ## Technical skills
 
-**Programming Languages**
+### Programming Languages
 
  > Proficient in: Java, Ruby, Javascript, HTML, XML, Ant, SQL, Bash 
 
  > Some experience with: PHP, Python, C++
 
-**Frameworks**
+### Frameworks
 
  > Javascript - JQuery, JQueryUI, familiar with Node
  
@@ -79,7 +79,7 @@
  
  > Reporting - Jasper (for Java and Ruby)
   
-**Tools**
+### Tools
 
  > Using development tools like RadRails, Eclipse, Netbeans 
  
@@ -92,6 +92,4 @@
 
 ## Education
 
-Engineer of Information systems, B.S.
-Fall 2002 - Spring 2007
-Faculty of organizational sciences, Belgrade
+ > Engineer of Information systems, B.S. Fall 2002 - Spring 2007, Faculty of organizational sciences, Belgrade
