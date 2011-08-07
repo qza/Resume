@@ -61,11 +61,12 @@
 
 ## Technical skills
 
-### Programming Languages
+### Programming
 
- > Proficient in: Java, Ruby, Javascript, HTML, XML, Ant, SQL, Bash 
+ > Proficient in: Java, Ruby, Javascript, HTML, XML, SQL, Bash, HTTP 
 
  > Some experience with: PHP, Python, C++
+
 
 ### Frameworks
 
