@@ -23,7 +23,7 @@
 
 #### [A Group][agr], Belgrade, Nov 08. – Present.
 
- * Developed universal record clasificator. Based on Tagged data organized in multi-Tree structure, it enables horisontal and vertical relationships between domain records, caches all tree paths for fast access and scales without chaging model definition. [presentation(sr)][aklas]
+ * Developed universal record clasificator. Based on Tagged data organized in multi-Tree structure, it enables horizontal and vertical relationships between domain records, caches all tree paths for fast access and scales without chaging model definition. [presentation(sr)][aklas]
  * Developed National Bank Web-services clients to import daily exchange rates and access company personal data register.
  * Developed and implemented rule-based solution for automatic general ledger posting of received i-bank statements, that saves up to 90% of time needed for manual data input
   
