@@ -1,0 +1,29 @@
+I, [04-33#20646]  INFO -- : 
+ --------------------------------- 
+
+I, [04-33#20646]  INFO -- : Net::HTTP::Get: /Resume
+I, [04-33#20646]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+I, [04-33#20646]  INFO -- : follow redirect to: http://qza.github.com/Resume/
+I, [04-33#20646]  INFO -- : Net::HTTP::Get: /Resume/
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /Resume/AsoftKlas.pdf
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /brosure/BrezaGAS.pdf
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /projects/apolon/
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /news-releases/oracle-announces-the-winners-of-the-2008-oracle-academy-global-data-modeling-competition-57408242.html
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /Resume/OracleAcademyFinal.pdf
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /UserView.wwa?userId=1135162
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- : Net::HTTP::Head: /Resume/resume.txt
+I, [04-33#20646]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+I, [04-33#20646]  INFO -- :  	 RESULTS ARE VALID! 

@@ -1,4 +1,4 @@
-# The Rakefile does all of the real work.
+require './check_links'
 
 task :default => [:github, :heroku]
 
