@@ -40,7 +40,7 @@
 #### [Faculty of organizational sciences][fon], Sept 07. – Oct 08
 
  * Best ATHENA semantic mediation pilot award for designed and developed [Web-based IV&I tool with RDF-based message exchange interface][apo]
- * Participated in analysis of legacy system for **Student services** and then specified requirements for the new system
+ * Participated in analysis of legacy system for *Student services* and then specified requirements for the new system
 
 ## Other achievements
 
