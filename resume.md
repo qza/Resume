@@ -24,7 +24,7 @@
 #### Opificio, March 2010 – July 30.
 
  * Developed project charter and completed documentation requested by funding programme [BAS Serbia][bas]
- * Designed and developer Laboratory Quality Controll Sowtware (Ruby, Javascript, Java), [Demo][labis] : [Support panel][redmine] : [screenschots][scr]
+ * Designed and developer Laboratory Quality Controll Sowtware (Ruby, Javascript, Java), [Demo][labis] : [Redmine][redmine] : [screenshots][scr]
 
 ### Software developer
 
