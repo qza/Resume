@@ -64,6 +64,7 @@ task :github do
 
    files = [
       'index.html',
+      'album.html',
       'resume.txt',
    ]
 

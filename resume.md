@@ -67,7 +67,7 @@
 [bas]: http://www.bas-serbia.org/
 [labis]: http://labis.dyndns.biz/
 [redmine]: http://labis.dyndns.biz:8088/
-[scr]: http://qza.github.com/Resume/album
+[scr]: http://qza.github.com/Resume/album.html
 
 
 ## Technical skills

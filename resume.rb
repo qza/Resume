@@ -46,6 +46,12 @@ get '/' do
   redirect '/index.html'
 end
 
+get '/album.html' do
+  erb :album, :locals => {
+      :title => 'Labis screenshots'
+   }
+end
+
 get '/robots.txt' do
   if request.host == 'localhost'
     redirect('robots.txt')
