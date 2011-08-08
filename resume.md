@@ -30,7 +30,10 @@
 
 #### [A Group][agr], Belgrade, Nov 08. – Present.
 
- * Developed universal record clasificator. Based on Tagged data organized in multi-Tree structure, it enables horizontal and vertical relationships between domain records, caches all tree paths for fast access and scales without chaging model definition. [presentation(sr)][aklas]
+ * Developed universal record clasificator. Based on Tagged data 
+organized in multi-Tree structure, it enables horizontal and vertical 
+relationships between domain records, caches all tree paths for fast 
+access and scales without changing model definition. [pdf(sr)][aklas]
  * Developed National Bank Web-services clients to import daily exchange rates and access company personal data register.
  * Developed and implemented rule-based solution for automatic general ledger posting of received i-bank statements, that saves up to 90% of time needed for manual data input
   
@@ -38,7 +41,8 @@
 
 #### [Breza Software Engeneering][bse], Sept 07. – Oct 08.
 
- * Developed the largest part of Java Application for  [Gas Network Management][gas]
+ * Developed the largest part of Java Application for  [Gas Network 
+Management(sr)][gas]
  * Developed JDeveloper plugins for Oracle ADF code generation following internal company standards.
  * Trained more then 20 users during 2 months of client site implementation
 
