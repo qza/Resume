@@ -19,6 +19,13 @@
 
 ## Experience
 
+### Software consultant
+
+#### Opificio, March 2010 – July 30.
+
+ * Developed project charter and completed documentation requested by funding programme [BAS Serbia][bas]
+ * Designed and developer Laboratory Quality Controll Sowtware (Ruby, Javascript, Java), [Demo][labis] : [Support panel][redmine] : [screenschots][scr]
+
 ### Software developer
 
 #### [A Group][agr], Belgrade, Nov 08. – Present.
@@ -57,6 +64,10 @@
 
 [aklas]: http://qza.github.com/Resume/AsoftKlas.pdf
 [air_pdf]: http://qza.github.com/Resume/OracleAcademyFinal.pdf
+[bas]: http://www.bas-serbia.org/
+[labis]: http://labis.dyndns.biz/
+[redmine]: http://labis.dyndns.biz:8088/
+[scr]: http://qza.github.com/Resume/album
 
 
 ## Technical skills
