@@ -21,13 +21,13 @@
 #### Opificio, March 2010 – July 30.
 
  * Developed project charter and completed documentation requested by funding programme [BAS Serbia][bas]
- * Designed and developed Laboratory Quality Controll Software (Ruby, Javascript, Java), [Demo][labis] : [Redmine][redmine] : [screenshots][scr]
+ * Involved in development of Laboratory Quality Controll Software (Ruby, Javascript, Java), [Demo][labis] : [Redmine][redmine] : [screenshots][scr]
 
 ### Software developer
 
 #### [A Group][agr], Belgrade, Nov 08. – Present.
 
- * Developed universal record clasificator. Based on Tagged data 
+ * Involved in development of universal record clasificator. Based on Tagged data 
 organized in multi-Tree structure, it enables horizontal and vertical 
 relationships between domain records, caches all tree paths for fast 
 access and scales without changing model definition. [pdf(sr)][aklas]
@@ -41,7 +41,6 @@ access and scales without changing model definition. [pdf(sr)][aklas]
  * Developed the largest part of Java Application for  [Gas Network 
 Management(sr)][gas]
  * Developed JDeveloper plugins for Oracle ADF code generation following internal company standards.
- * Trained more then 20 users during 2 months of client site implementation
 
 ### Research assistant
 
