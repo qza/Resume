@@ -13,9 +13,6 @@
  * Linux web server administration for 1+ years
  * Self-education and development practice with BDD, TDD and agile
  * Good knowledge of OO & SOA paradigms
- * Wide Software-related Business skills
- * International research and scientific papers
- 
 
 ## Experience
 
