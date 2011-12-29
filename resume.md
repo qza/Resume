@@ -11,8 +11,6 @@
  * Web developer for 2+ years 
  * Ruby Freelance developer for 2 years
  * Linux web server administration for 1+ years
- * Self-education and development practice with BDD, TDD and agile
- * Good knowledge of OO & SOA paradigms
 
 ## Experience
 
@@ -20,17 +18,12 @@
 
 #### Opificio, March 2010 – July 30.
 
- * Developed project charter and completed documentation requested by funding programme [BAS Serbia][bas]
  * Involved in development of Laboratory Quality Controll Software (Ruby, Javascript, Java), [Demo][labis] : [Redmine][redmine] : [screenshots][scr]
 
 ### Software developer
 
 #### [A Group][agr], Belgrade, Nov 08. – Present.
 
- * Involved in development of universal record clasificator. Based on Tagged data 
-organized in multi-Tree structure, it enables horizontal and vertical 
-relationships between domain records, caches all tree paths for fast 
-access and scales without changing model definition. [pdf(sr)][aklas]
  * Developed National Bank Web-services clients to import daily exchange rates and access company personal data register.
  * Developed and implemented rule-based solution for automatic general ledger posting of received i-bank statements, that saves up to 90% of time needed for manual data input
   
@@ -51,7 +44,6 @@ Management(sr)][gas]
 
 ## Other achievements
 
- * 4th place at 2008 Oracle Academy Modeling Competition with project: [Global airlines][air], [full-pdf][air_pdf]
  * Blue Belt at [Java Black Belt][jbb]
 
 [apo]:http://sourceforge.net/projects/apolon/
