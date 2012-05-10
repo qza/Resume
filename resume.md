@@ -7,18 +7,18 @@
 
 ## Profile summary
 
- * Java developer for 4+ years
+ * Java developer for 5 years
  * Web developer for 2+ years 
- * Ruby Freelance developer for 2 years
+ * Ruby Developer for 2 years
  * Linux web server administration for 1+ years
 
 ## Experience
 
 ### Software consultant
 
-#### Opificio, March 2010 – July 30.
+#### Opificio, Marchh 2010 – Present
 
- * Involved in development of Laboratory Quality Controll Software (Ruby, Javascript, Java), [Demo][labis] : [Redmine][redmine] : [screenshots][scr]
+ * Involved in development of Laboratory Quality Controll Software (Ruby, Javascript, Java), [screenshots][scr]
 
 ### Software developer
 
@@ -31,8 +31,7 @@
 
 #### [Breza Software Engeneering][bse], Sept 07. – Oct 08.
 
- * Developed the largest part of Java Application for  [Gas Network 
-Management(sr)][gas]
+ * Developed the largest part of Java Application for  [Gas Network Management(sr)][gas]
  * Developed JDeveloper plugins for Oracle ADF code generation following internal company standards.
 
 ### Research assistant
@@ -42,17 +41,15 @@ Management(sr)][gas]
  * Best ATHENA semantic mediation pilot award for designed and developed [Web-based IV&I tool with RDF-based message exchange interface][apo]
  * Participated in analysis of legacy system for *Student services* and then specified requirements for the new system
 
-## Other achievements
+## Other projects
 
- * Blue Belt at [Java Black Belt][jbb]
+ * Memorize friends, simple game for facebook [memorize]
 
 [apo]:http://sourceforge.net/projects/apolon/
 [gas]:http://www.brezasoftware.com/brosure/BrezaGAS.pdf
 [bse]:http://www.brezasoftware.com/
 [agr]:http://www.agroupm.com/
 [fon]:http://www.fon.bg.ac.rs/
-[jbb]:http://www.blackbeltfactory.com/UserView.wwa?userId=1135162
-[air]:http://www.prnewswire.com/news-releases/oracle-announces-the-winners-of-the-2008-oracle-academy-global-data-modeling-competition-57408242.html
 
 [aklas]: http://qza.github.com/Resume/AsoftKlas.pdf
 [air_pdf]: http://qza.github.com/Resume/OracleAcademyFinal.pdf
@@ -60,15 +57,13 @@ Management(sr)][gas]
 [labis]: http://labis.dyndns.biz/
 [redmine]: http://labis.dyndns.biz:8088/
 [scr]: http://qza.github.com/Resume/album.html
-
+[memorize]: https://github.com/qza/MemorizeFriends
 
 ## Technical skills
 
 ### Programming
 
- > Proficient in: Java, Ruby, Javascript, HTML, XML, SQL, Bash, HTTP 
-
- > Some experience with: PHP, Python, C++
+ > Proficient in: Java, Ruby, Javascript, HTML, XML, SQL
 
 
 ### Frameworks
