@@ -16,7 +16,7 @@
 
 ### Software consultant
 
-#### Opificio, Marchh 2010 – Present
+#### Opificio, March 2010 – Present
 
  * Involved in development of Laboratory Quality Controll Software (Ruby, Javascript, Java), [screenshots][scr]
 
