@@ -8,7 +8,7 @@
 ## Profile summary
 
  * Java developer for 5 years
- * Web developer for 2+ years 
+ * Web developer for 2+ years
  * Ruby Developer for 2 years
  * Linux web server administration for 1+ years
 
@@ -26,7 +26,7 @@
 
  * Developed National Bank Web-services clients to import daily exchange rates and access company personal data register.
  * Developed and implemented rule-based solution for automatic general ledger posting of received i-bank statements, that saves up to 90% of time needed for manual data input
-  
+
 ### Software Developer (Freelance)
 
 #### [Breza Software Engeneering][bse], Sept 07. – Oct 08.
@@ -68,13 +68,13 @@
 
 ### Frameworks
 
- > Javascript - JQuery, JQueryUI, familiar with Node
+ > Javascript - JQuery, ExtJS
  
  > Ruby - Rails 2.3.5 - 3.1.0, familiar with Sinatra
 
  > Testing - Cucumber, RSpec, Capybara, Selenium 
  
- > JavaEE - Hibernate, EJB, Spring, JSF
+ > JavaEE - Hibernate, Spring, JSF, EJB
  
  > Reporting - Jasper (for Java and Ruby)
   
@@ -86,7 +86,7 @@
  
  > Continious integration with Git, Redmine, Cruise Controll, Maven, Jenkins
  
- > Using Ubuntu at office, Centos for personal and server use, since 2009
+ > OS: Ubuntu, Centos and Windows
 
 
 ## Education
