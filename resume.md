@@ -52,7 +52,7 @@
  
  > Markup: XML,SOAP,WSDL,RDF,HTML,CSS,YAML
  
- > Enterprise - Spring,Hibernate,EJB,Jackson,JaxB,JaxWS,JaxRS,JSP,JSF
+ > Enterprise - Servlet,Spring,Hibernate,EJB,Jackson,JaxB,JaxWS,JaxRS,JSP,JSF
  
  > Javascript - JQuery,ExtJS
 
