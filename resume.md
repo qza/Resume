@@ -19,7 +19,7 @@
 
 ### Software developer (Freelance)
 #### Opificio, Mar 2010 – Sep 2011
- * Completely developed application for [Laboratory Quality Controll Software][scr] (ruby, js, java), 
+ * Completely developed application for [Laboratory Quality Controll][scr] (ruby,js,java), 
 
 ### Software developer
 #### [A Group][agr], Belgrade, Nov 08. – Sep 2012.
