@@ -4,87 +4,92 @@
  * <http://github.com/qza>
  * +381 (1) 65 331-49-42
 
-
 ## Profile summary
 
  * Java developer for 5 years
- * Web developer for 2+ years
- * Ruby Developer for 2 years
+ * Web developer for 3 years
+ * Ruby Developer for 1+ years
  * Linux web server administration for 1+ years
 
 ## Experience
 
+### Software developer
+
+#### [Seavus][sea], Oct 2012 – Present
+
+ * Integration platform for mobile operators
+ * Web application for vehicle insurance
+
 ### Software consultant
 
-#### Opificio, March 2010 – Present
+#### Opificio, Mar 2010 – Sep 2011
 
- * Involved in development of Laboratory Quality Controll Software (Ruby, Javascript, Java), [screenshots][scr]
+ * Laboratory Quality Controll Software (Ruby, Javascript, Java), [screenshots][scr]
 
 ### Software developer
 
-#### [A Group][agr], Belgrade, Nov 08. – Present.
+#### [A Group][agr], Belgrade, Nov 08. – Sep 2012.
 
- * Developed National Bank Web-services clients to import daily exchange rates and access company personal data register.
- * Developed and implemented rule-based solution for automatic general ledger posting of received i-bank statements, that saves up to 90% of time needed for manual data input
+ * Interaction with Web-services of National Bank
+ * Automatic general ledger posting of received i-bank statements
 
-### Software Developer (Freelance)
+### Software Developer
 
-#### [Breza Software Engeneering][bse], Sept 07. – Oct 08.
+#### [Breza Software Engeneering][bse], Sep 07. – Oct 08.
 
- * Developed the largest part of Java Application for  [Gas Network Management(sr)][gas]
- * Developed JDeveloper plugins for Oracle ADF code generation following internal company standards.
+ * Java Application for  [Gas Network Management(sr)][gas]
+ * JDeveloper plugins for Oracle ADF code generation following internal company standards.
 
 ### Research assistant
 
 #### [Faculty of organizational sciences][fon], Sept 07. – Oct 08
 
- * Best ATHENA semantic mediation pilot award for designed and developed [Web-based IV&I tool with RDF-based message exchange interface][apo]
- * Participated in analysis of legacy system for *Student services* and then specified requirements for the new system
+ * ATHENA semantic mediation pilot [Web-based IV&I tool with RDF-based message exchange interface][apo]
+ * Analysis of legacy system for *Student services* and specification of the requirements for the new system
 
 ## Other projects
 
- * Memorize friends, simple game for facebook [memorize]
+ * Distributed crawling (java.nio, java.concurrent) [gft]
+ * Memorize friends, simple game for facebook (html, js, css) [memorize]
+ * Presentation for [Oracle Modelling Competition] [air_pdf]
 
 [apo]:http://sourceforge.net/projects/apolon/
 [gas]:http://www.brezasoftware.com/brosure/BrezaGAS.pdf
 [bse]:http://www.brezasoftware.com/
 [agr]:http://www.agroupm.com/
 [fon]:http://www.fon.bg.ac.rs/
+[sea]:http://www.seavus.com/
 
-[aklas]: http://qza.github.com/Resume/AsoftKlas.pdf
 [air_pdf]: http://qza.github.com/Resume/OracleAcademyFinal.pdf
-[bas]: http://www.bas-serbia.org/
-[labis]: http://labis.dyndns.biz/
-[redmine]: http://labis.dyndns.biz:8088/
 [scr]: http://qza.github.com/Resume/album.html
 [memorize]: https://github.com/qza/MemorizeFriends
+[gft]: https://github.com/qza/gft-crw
 
 ## Technical skills
 
 ### Programming
 
- > Proficient in: Java, Ruby, Javascript, HTML, XML, SQL
-
-
-### Frameworks
+ > Languages: Java, Javascript, Ruby
+ 
+ > JavaEE - Spring, Hibernate, JaxWS, JSP, JSF, EJB
 
  > Javascript - JQuery, ExtJS
+
+ > Testing - JUnit, Mockito, EasyMock, Cucumber, Selenium 
  
  > Ruby - Rails 2.3.5 - 3.1.0, familiar with Sinatra
-
- > Testing - Cucumber, RSpec, Capybara, Selenium 
  
- > JavaEE - Hibernate, Spring, JSF, EJB
+ > Servers: Tomcat, Jetty, Netty (dev)
  
- > Reporting - Jasper (for Java and Ruby)
+ > Reporting - Jasper
   
 ### Tools
 
- > Using development tools like RadRails, Eclipse, Netbeans 
+ > Using development tools like Eclipse, Netbeans, Aptana
  
- > Databases: Postgres, MySQL, Oracle, MongoDB
+ > Databases: MySQL, Oracle, Postgres, H2, MongoDB
  
- > Continious integration with Git, Redmine, Cruise Controll, Maven, Jenkins
+ > Continious integration with Git, Redmine, Maven, Jenkins
  
  > OS: Ubuntu, Centos and Windows
 
