@@ -4,46 +4,46 @@
  * <http://github.com/qza>
  * +381 (1) 65 331-49-42
 
-## About me
-
- * Software enthusiast interested in distributed processing and massive data
- * Trying to find smarter ways for doing things
-
 ## Profile summary
 
  * Java developer for 5 years
  * Web developer for 3 years
  * Ruby Developer for 1+ years
- * Linux web server administration for 1+ years
-
+ 
 ## Experience
 
 ### Software developer
 
 #### [Seavus][sea], Oct 2012 – Present
 
- * Integration platform for mobile operators
- * Web application for vehicle insurance
+ * Worked on integration platform for mobile operators. Refactored services from AXIS to CXF, and from Castor to JaxB.
+   Developed application for processing bounced email messages, that gathers available information using configurable
+   regex like rules. Application uses queue to retry to send email and interacts with customer system to initiate 
+   required business steps and notify telecom user. 
 
-### Software consultant
+ * Worked on Web application for vehicle insurance. Application maintainance and development of new features.
+
+### Software developer (Freelance)
 
 #### Opificio, Mar 2010 – Sep 2011
 
- * Laboratory Quality Controll Software (Ruby, Javascript, Java), [screenshots][scr]
+ * Completely developed application for [Laboratory Quality Controll Software][scr] (Ruby, Javascript, Java), 
 
 ### Software developer
 
 #### [A Group][agr], Belgrade, Nov 08. – Sep 2012.
 
- * Interaction with Web-services of National Bank
- * Automatic general ledger posting of received i-bank statements
+ * Mainly worked on Automatic general ledger posting of received i-bank statements using predefined rules, that reduced
+   required time for 90% compared to manual statement processing.
+ * Worked on interaction with National Bank Web-services to access company register data and daily payment reports.
+ * Done development of core and application features for company-internal ERP
 
 ### Software Developer
 
 #### [Breza Software Engeneering][bse], Sep 07. – Oct 08.
 
- * Java Application for  [Gas Network Management(sr)][gas]
- * JDeveloper plugins for Oracle ADF code generation following internal company standards.
+ * Java Application for [Gas Network Management(sr)][gas]
+ * DJDeveloper plugins for Oracle ADF code generation following internal company standards.
 
 ### Research assistant
 
@@ -54,7 +54,7 @@
 
 ## Other projects
 
- * Distributed crawling (java.nio, java.concurrent) [gft]
+ * Distributed crawling (java.nio, java.concurrent, spring.context) [gft]
  * Memorize friends, simple game for facebook (html, js, css) [memorize]
  * Presentation for [Oracle Modelling Competition] [air_pdf]
 
@@ -76,15 +76,17 @@
 
  > Languages: Java, Javascript, Ruby
  
- > JavaEE - Spring, Hibernate, JaxWS, JSP, JSF, EJB
+ > Markup:  XML, SOAP, WSDL, RDF, HTML, CSS
+ 
+ > JavaEE - Spring, Hibernate, EJB, Jackson, JaxB, JaxWS, JaxRS, JSP, JSF
 
  > Javascript - JQuery, ExtJS
 
- > Testing - JUnit, Mockito, EasyMock, Cucumber, Selenium 
+ > Testing - JUnit, EasyMock, Selenium, Cucumber
  
- > Ruby - Rails 2.3.5 - 3.1.0, familiar with Sinatra
+ > Ruby - Rails 2.3.5 - 3.1.0
  
- > Servers: Tomcat, Jetty, Netty (dev)
+ > Servers: Tomcat, JBoss, Jetty, Netty (dev)
  
  > Reporting - Jasper
   
@@ -92,13 +94,18 @@
 
  > Using development tools like Eclipse, Netbeans, Aptana
  
- > Databases: MySQL, Oracle, Postgres, H2, MongoDB
+ > Databases: MySQL, Oracle, Postgres, MongoDB, H2
  
- > Continious integration with Maven, Ant, Git, SVN, Redmine, Jira, Jenkins
+ > Continious integration with Maven, Git, SVN, Redmine, Jira, Jenkins
  
- > OS: Ubuntu, Centos and Windows
+ > OS: Ubuntu, Centos, Windows
 
 
 ## Education
 
  > Engineer of Information systems, B.S. Fall 2002 - Spring 2007, Faculty of organizational sciences, Belgrade
+
+## About me
+
+ * Enthusiast interested in distributed systems
+ * Trying to find smarter ways for doing things
