@@ -4,6 +4,11 @@
  * <http://github.com/qza>
  * +381 (1) 65 331-49-42
 
+## About me
+
+ * Software enthusiast interested in distributed processing and massive data
+ * Trying to find smarter ways for doing things
+
 ## Profile summary
 
  * Java developer for 5 years
@@ -57,7 +62,7 @@
 [gas]:http://www.brezasoftware.com/brosure/BrezaGAS.pdf
 [bse]:http://www.brezasoftware.com/
 [agr]:http://www.agroupm.com/
-[fon]:http://www.fon.bg.ac.rs/
+[fon]:http://www.labis.fon.rs/
 [sea]:http://www.seavus.com/
 
 [air_pdf]: http://qza.github.com/Resume/OracleAcademyFinal.pdf
@@ -89,7 +94,7 @@
  
  > Databases: MySQL, Oracle, Postgres, H2, MongoDB
  
- > Continious integration with Git, Redmine, Maven, Jenkins
+ > Continious integration with Maven, Ant, Git, SVN, Redmine, Jira, Jenkins
  
  > OS: Ubuntu, Centos and Windows
 
