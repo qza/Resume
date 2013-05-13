@@ -41,7 +41,7 @@
 ## Other projects
  * Distributed crawling (java.nio, java.concurrent, spring.context) [gft-crw]
  * Memorize friends, simple game for facebook (html,js,css) [memorize]
- * Making screenshots on keypres for xwindows in ruby [shotastic]
+ * Making screenshots on keypress for xwindows in ruby [shotastic]
  * [Presentation][air_pdf] for Oracle modeling competition
 
 ## Technical skills
