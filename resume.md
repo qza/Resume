@@ -6,7 +6,7 @@
 ## Profile summary
  * Java developer for 5 years
  * Web developer for 3 years
- * Ruby Developer for 1+ years
+ * Ruby developer for 1+ years
  
 ## Experience
 ### Software developer
@@ -52,7 +52,7 @@
  
  > Markup: XML,SOAP,WSDL,RDF,HTML,CSS,YAML
  
- > Enterprise - Servlet,Spring,Hibernate,EJB,Jackson,JaxB,JaxWS,JaxRS,JSP,JSF
+ > Enterprise - Servlet,Spring,Hibernate,EJB,AspectJ,Jackson,JaxB,JaxWS,JaxRS,JSP,JSF
  
  > Javascript - JQuery,ExtJS
 
