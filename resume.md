@@ -20,8 +20,8 @@
  * Worked on integration platform for mobile operators. Refactoring services from AXIS to CXF, and from Castor to JaxB.
    Developed application for processing bounced email messages, that gathers available information using configurable
    regex like rules. Application uses queue to retry to send email and interacts with customer system to initiate 
-   required business steps and notify telecom user. (On site, Sunrise CH)
- * Worked on Web application for vehicle insurance. Application maintenance and development of new features. (Off site, Audatex CH)
+   required business steps and notify telecom user. (*on-site, Sunrise CH*)
+ * Worked on Web application for vehicle insurance. Application maintenance and development of new features. (*off-site, Audatex CH*)
 
 ### Software developer (Freelance)
 #### Opificio, Mar 2010 – Sep 2011
