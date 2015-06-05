@@ -4,18 +4,24 @@
  * 00381653314942
 
 ## Profile summary
- * Java developer for 5 years
+ * Java developer for 6 years
  * Web developer for 3 years
  * Ruby developer for 1+ years
  
 ## Experience
+
 ### Software developer
-#### [Seavus][sea], Oct 2012 – Present
+#### [Dimoco][dim], Nov 2013 – current
+ * Working on mobile payment and messaging systems.
+ * Identity management, development and implementation.
+
+### Software developer
+#### [Seavus][sea], Oct 2012 – Sep 2013
  * Worked on integration platform for mobile operators. Refactoring services from AXIS to CXF, and from Castor to JaxB.
    Developed application for processing bounced email messages, that gathers available information using configurable
    regex like rules. Application uses queue to retry to send email and interacts with customer system to initiate 
-   required business steps and notify telecom user. 
- * Worked on Web application for vehicle insurance. Application maintenance and development of new features.
+   required business steps and notify telecom user. (On site, Sunrise CH)
+ * Worked on Web application for vehicle insurance. Application maintenance and development of new features. (Off site, Audatex CH)
 
 ### Software developer (Freelance)
 #### Opificio, Mar 2010 – Sep 2011
@@ -52,11 +58,11 @@
  
  > Markup: XML,SOAP,WSDL,RDF,HTML,CSS,YAML
  
- > Enterprise - Servlet,Spring,Hibernate,EJB,AspectJ,Jackson,JaxB,JaxWS,JaxRS,JSP,JSF
+ > Enterprise - Servlet,JMS,Spring,Hibernate,EJB,AspectJ,Jackson,JaxB,JaxWS,JaxRS,JSP,JSF
  
- > Javascript - JQuery,ExtJS
+ > Javascript - JQuery,Angular,ExtJS
 
- > Testing - JUnit,EasyMock,Selenium,Cucumber
+ > Testing - JUnit,Mockito,Selenium,Cucumber
  
  > Ruby 1.8.3->1.9.2, Rails 2.3.5->3.1.0
  
@@ -81,9 +87,9 @@
 
 ## About me
  * Enthusiast interested in distributed systems
- * Trying to find smarter ways for doing things
- * [Playing][scloud] with electronic music
+ * Finding smarter ways for doing things
 
+[dim]:http://www.dimoco.at/
 [apo]:http://sourceforge.net/projects/apolon/
 [gas]:http://www.brezasoftware.com/brosure/BrezaGAS.pdf
 [bse]:http://www.brezasoftware.com/
