@@ -4,23 +4,22 @@
  * 00381653314942
 
 ## Profile summary
- * Java developer for 6 years
- * Web developer for 3 years
+ * Java developer for 7 years
+ * Web developer for 4 years
  * Ruby developer for 1+ years
  
 ## Experience
 
 ### Software developer
 #### [Dimoco][dim], Nov 2013 – current
- * Working on mobile payment and messaging systems.
+ * Working on mobile payment and messaging systems. 
  * Identity management, development and implementation.
+ * Mobile test center Web application.
 
 ### Software developer
 #### [Seavus][sea], Oct 2012 – Sep 2013
  * Worked on integration platform for mobile operators. Refactoring services from AXIS to CXF, and from Castor to JaxB.
-   Developed application for processing bounced email messages, that gathers available information using configurable
-   regex like rules. Application uses queue to retry to send email and interacts with customer system to initiate 
-   required business steps and notify telecom user. (*on-site, Sunrise CH*)
+   Developed application for processing bounced email messages. (*on-site, Sunrise CH*)
  * Worked on Web application for vehicle insurance. Application maintenance and development of new features. (*off-site, Audatex CH*)
 
 ### Software developer (Freelance)
@@ -56,15 +55,13 @@
 
  > Languages: Java,JS,Ruby
  
- > Markup: XML,SOAP,WSDL,RDF,HTML,CSS,YAML
+ > Markup: XML,SOAP,WSDL,RDF,JSON,HTML,CSS,YAML
  
- > Enterprise - Servlet,JMS,Spring,Hibernate,EJB,AspectJ,Jackson,JaxB,JaxWS,JaxRS,JSP,JSF
+ > Enterprise - Servlet,JSP,JMS,Spring,Hibernate,EJB,AspectJ,JaxB,JaxWS,JaxRS,JSF
  
  > Javascript - JQuery,Angular,ExtJS
 
  > Testing - JUnit,Mockito,Selenium,Cucumber
- 
- > Ruby 1.8.3->1.9.2, Rails 2.3.5->3.1.0
  
  > Servers: Tomcat,JBoss,Jetty,Netty(dev)
  
@@ -74,9 +71,9 @@
 
  > Using development tools like Eclipse,Netbeans,Aptana
  
- > Databases: MySQL,Oracle,Postgres,MongoDB,H2
+ > Databases: Oracle,Postgres,MySQL,MongoDB,H2
  
- > Continious integration with Maven,Git,SVN,Redmine,Jira,Jenkins
+ > Continious integration with Maven,Git,SVN,Redmine,Jira,Jenkins,Bamboo
  
  > OS: Ubuntu,Centos,Windows
 
@@ -86,7 +83,7 @@
  > Engineer of information systems, B.S. Fall 2002 - Spring 2007, Faculty of organizational sciences, Belgrade
 
 ## About me
- * Enthusiast interested in distributed systems
+ * Interested in distributed systems
  * Finding smarter ways for doing things
 
 [dim]:http://www.dimoco.at/
