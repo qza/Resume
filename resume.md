@@ -12,31 +12,31 @@
 
 ### Software developer
 #### [Dimoco][dim], Nov 2013 – current
- * Working on mobile payment and messaging systems. 
- * Identity management, development and implementation.
- * Mobile test center Web application.
+ * Working on mobile payments and messaging services
+ * Worked on implementation of Identity management system
+ * Developed Test Center Management Console for using mobile handsets
 
 ### Software developer
 #### [Seavus][sea], Oct 2012 – Sep 2013
- * Worked on integration platform for mobile operators. Refactoring services from AXIS to CXF, and from Castor to JaxB.
-   Developed application for processing bounced email messages. (*on-site, Sunrise CH*)
+ * Worked on integration platform for mobile operators. Refactored some of existing and integrated few new web services. Developed 
+   application for processing bounced email messages. (*on-site, Sunrise CH*)
  * Worked on Web application for vehicle insurance. Application maintenance and development of new features. (*off-site, Audatex CH*)
 
 ### Software developer (Freelance)
 #### Opificio, Mar 2010 – Sep 2011
- * Completely developed application for [Laboratory Quality Controll][scr] (ruby,js,java), 
+ * Developed Web application for [Laboratory Quality Controll][scr] (ruby,js,java)
 
 ### Software developer
 #### [A Group][agr], Belgrade, Nov 08. – Sep 2012.
  * Mainly worked on Automatic general ledger posting of received i-bank statements using predefined rules, that reduced
-   required time for 90% compared to manual statement processing.
- * Worked on interaction with National Bank Web-services to access company register data and daily payment reports.
+   required time for 90% compared to manual statement processing
+ * Worked on interaction with National Bank Web-services to access company register data and daily payment reports
  * Done development of core and application features for company-internal ERP
 
 ### Software developer
 #### [Breza Software Engeneering][bse], Sep 07. – Oct 08.
  * Java Application for [Gas Network Management(sr)][gas]
- * Developed JDeveloper plugins for Oracle ADF code generation following internal company standards.
+ * Developed JDeveloper plugins for Oracle ADF code generation following internal company standards
 
 ### Research assistant
 #### [Faculty of organizational sciences][fon], Sept 07. – Oct 08
@@ -53,34 +53,30 @@
 
 ### Programming
 
- > Languages: Java,JS,Ruby
+ * Languages: Java,JS,Ruby
  
- > Markup: XML,SOAP,WSDL,RDF,JSON,HTML,CSS,YAML
+ * Markup: XML,SOAP,WSDL,RDF,JSON,HTML,CSS,YAML
  
- > Enterprise - Servlet,JSP,Spring,Hibernate,EJB,JMS,Camel,AspectJ,JaxB,JaxWS,JaxRS,JSF
+ * Enterprise - Servlet,JSP,Spring,Hibernate,EJB,JMS,Camel,AspectJ,JaxB,JaxWS,JaxRS,JSF
  
- > Javascript - JQuery,Angular,ExtJS
+ * Javascript - JQuery,Angular,ExtJS
 
- > Testing - JUnit,Mockito,Selenium,Cucumber
- 
- > Servers: Tomcat,JBoss,Jetty,Netty(dev)
- 
- > Reporting - Jasper
+ * Testing - JUnit,Mockito,Selenium,Cucumber
   
 ### Tools
 
- > Using development tools like Eclipse,Netbeans,Aptana
+ * Using development tools like Eclipse,Netbeans,Aptana
  
- > Databases: Oracle,Postgres,MySQL,MongoDB,H2
+ * Databases: Oracle,Postgres,MySQL,MongoDB,H2
+ Servers: Tomcat,JBoss,Jetty,Netty(dev)
  
- > Continious integration with Maven,Git,SVN,Redmine,Jira,Jenkins,Bamboo
+ * Continious integration with Maven,Git,SVN,Redmine,Jira,Jenkins,Bamboo
  
- > OS: Ubuntu,Centos,Windows
-
+ OS: Ubuntu,Centos,Windows
 
 ## Education
 
- > Engineer of information systems, B.S. Fall 2002 - Spring 2007, Faculty of organizational sciences, Belgrade
+ Engineer of information systems, B.S. Fall 2002 - Spring 2007, Faculty of organizational sciences, Belgrade
 
 ## About me
  * Interested in distributed systems
@@ -98,4 +94,3 @@
 [memorize]: https://github.com/qza/MemorizeFriends
 [shotastic]: https://github.com/qza/shotastic
 [gft-crw]: https://github.com/qza/gft-crw
-[scloud]: http://soundcloud.com/qza
