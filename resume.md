@@ -57,7 +57,7 @@
  
  * Markup: XML,SOAP,WSDL,RDF,JSON,HTML,CSS,YAML
  
- * Enterprise - Servlet,JSP,Spring,Hibernate,EJB,JMS,Camel,AspectJ,JaxB,JaxWS,JaxRS,JSF
+ * Enterprise - Servlet,JSP,Spring,Hibernate,EJB,AspectJ,JMS,JaxB,JaxWS,Camel,Resteasy
  
  * Javascript - JQuery,Angular,ExtJS
 
@@ -68,11 +68,12 @@
  * Using development tools like Eclipse,Netbeans,Aptana
  
  * Databases: Oracle,Postgres,MySQL,MongoDB,H2
- Servers: Tomcat,JBoss,Jetty,Netty(dev)
+ 
+ * Servers: Tomcat,JBoss,Jetty,Netty
  
  * Continious integration with Maven,Git,SVN,Redmine,Jira,Jenkins,Bamboo
  
- OS: Ubuntu,Centos,Windows
+ * OS: Ubuntu,Centos,Windows
 
 ## Education
 
