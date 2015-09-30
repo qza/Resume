@@ -12,7 +12,7 @@
 
 ### Software developer
 #### [Dimoco][dim], Nov 2013 – current
- * Working in mobile payments and messaging teams. Mainenence, component design and integration.
+ * Working in mobile payments and messaging teams. Maintenence, component design and integration.
  * Worked on project for Identity management system. Evaluation, customization and implementation.
  * Developed Test Center Management Console for using mobile handsets.
 
