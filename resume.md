@@ -12,9 +12,9 @@
 
 ### Software developer
 #### [Dimoco][dim], Nov 2013 – current
- * Working on mobile payments and messaging services
- * Worked on implementation of Identity management system
- * Developed Test Center Management Console for using mobile handsets
+ * Working in mobile payments and messaging teams. Mainenence, component design and integration.
+ * Worked on project for Identity management system. Evaluation, customization and implementation.
+ * Developed Test Center Management Console for using mobile handsets.
 
 ### Software developer
 #### [Seavus][sea], Oct 2012 – Sep 2013
@@ -57,7 +57,7 @@
  
  * Markup: XML,SOAP,WSDL,RDF,JSON,HTML,CSS,YAML
  
- * Enterprise - Servlet,JSP,Spring,Hibernate,EJB,AspectJ,JMS,JaxB,JaxWS,Camel,Resteasy
+ * Enterprise - Servlet,JSP,Spring,JPA,Hibernate,EJB,AspectJ,JMS,JaxB,JaxWS,Camel,Resteasy
  
  * Javascript - JQuery,Angular,ExtJS
 
