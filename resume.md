@@ -48,15 +48,15 @@
 
 ### Programming
 
- * Languages: Java,JS,Ruby
+ * Languages: Java,Javascript,Ruby
  
- * Markup: XML,SOAP,WSDL,RDF,JSON,HTML,CSS,YAML
+ * Markup: XML,SOAP,WSDL,JSON,HTML,CSS,RDF,YAML
  
  * Enterprise - Servlet,JSP,Spring,JPA,Hibernate,EJB,AspectJ,JMS,JaxB,JaxWS,Camel,Resteasy
  
- * Javascript - JQuery,Angular,ExtJS
+ * Javascript - JQuery,Angular
 
- * Testing - JUnit,Mockito,Selenium,Cucumber
+ * Testing - JUnit,Mockito,Cucumber,Selenium
   
 ### Tools
 
