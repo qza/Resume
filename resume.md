@@ -17,10 +17,6 @@
    application for processing bounced email messages. (*on-site, Sunrise CH*)
  * Worked on Web application for vehicle insurance. Application maintenance and development of new features. (*off-site, Audatex CH*)
 
-### Software developer (Freelance)
-#### Opificio, Mar 2010 – Sep 2011
- * Developed Web application for [Laboratory Quality Controll][scr] (ruby,js,java)
-
 ### Software developer
 #### [A Group][agr], Belgrade, Nov 08. – Sep 2012.
  * Mainly worked on Automatic general ledger posting of received i-bank statements using predefined rules, that reduced
@@ -42,7 +38,6 @@
  * Distributed crawling (java.nio, java.concurrent, spring.context) [gft-crw]
  * Memorize friends, simple game for facebook (html,js,css) [memorize]
  * Making screenshots on keypress for xwindows in ruby [shotastic]
- * [Presentation][air_pdf] for Oracle modeling competition
 
 ## Technical skills
 
@@ -84,10 +79,8 @@
 [gas]:http://www.brezasoftware.com/brosure/BrezaGAS.pdf
 [bse]:http://www.brezasoftware.com/
 [agr]:http://www.agroupm.com/
-[fon]:http://www.labis.fon.rs/
+[fon]:http://www.fon.bg.ac.rs/
 [sea]:http://www.seavus.com/
-[air_pdf]: http://qza.github.com/Resume/OracleAcademyFinal.pdf
-[scr]: http://qza.github.com/Resume/album.html
 [memorize]: https://github.com/qza/MemorizeFriends
 [shotastic]: https://github.com/qza/shotastic
 [gft-crw]: https://github.com/qza/gft-crw
