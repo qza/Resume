@@ -77,6 +77,7 @@
 ## About me
  * Interested in distributed systems
  * Finding better ways for doing things
+ * Occasionally writing [blog]
 
 [dim]:http://www.dimoco.at/
 [apo]:http://sourceforge.net/projects/apolon/
@@ -90,3 +91,4 @@
 [memorize]: https://github.com/qza/MemorizeFriends
 [shotastic]: https://github.com/qza/shotastic
 [gft-crw]: https://github.com/qza/gft-crw
+[blog]: http://qza.github.io/
