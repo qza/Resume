@@ -3,18 +3,13 @@
  * <http://github.com/qza>
  * 00381653314942
 
-## Profile summary
- * Java developer for 7 years
- * Web developer for 4 years
- * Ruby developer for 1+ years
- 
 ## Experience
 
 ### Software developer
 #### [Dimoco][dim], Nov 2013 – current
  * Working in mobile payments and messaging teams. Maintenence, component design and integration.
  * Worked on project for Identity management system. Evaluation, customization and implementation.
- * Developed Test Center Management Console for using mobile handsets.
+ * Worked on Test Center Management Console for using mobile handsets.
 
 ### Software developer
 #### [Seavus][sea], Oct 2012 – Sep 2013
@@ -81,7 +76,7 @@
 
 ## About me
  * Interested in distributed systems
- * Finding smarter ways for doing things
+ * Finding better ways for doing things
 
 [dim]:http://www.dimoco.at/
 [apo]:http://sourceforge.net/projects/apolon/
