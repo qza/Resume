@@ -1,7 +1,6 @@
 ## Zoran Koković
  * <kokovic.zoran@gmail.com>
  * <http://github.com/qza>
- * 00381653314942
 
 ## Experience
 
